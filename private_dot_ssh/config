@@ -1,0 +1,20 @@
+Host github.com
+    User git
+    HostName github.com
+
+Host gitlab.com
+    User git
+    HostName gitlab.com
+
+Host pi4
+    User ubuntu
+    HostName 192.168.3.90
+
+Host pi3
+    User ubuntu
+    HostName 192.168.9.20
+
+Host *
+    UseKeychain yes
+    PreferredAuthentications publickey
+    IdentityFile ~/.ssh/id_ed25519

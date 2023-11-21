@@ -1,0 +1,14 @@
+" https://stackoverflow.com/a/234578/18566880
+filetype plugin indent on
+" show existing tab with 4 spaces width
+set tabstop=4
+" when indenting with '>', use 4 spaces width
+set shiftwidth=4
+" On pressing tab, insert 4 spaces
+set expandtab
+
+" https://www.cyberciti.biz/faq/turn-on-or-off-color-syntax-highlighting-in-vi-or-vim/
+syntax on
+
+" https://stackoverflow.com/q/7225057/18566880
+set mouse=a

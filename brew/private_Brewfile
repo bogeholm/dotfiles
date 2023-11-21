@@ -1,0 +1,38 @@
+ # https://github.com/Homebrew/homebrew-bundle
+
+brew "chezmoi"
+brew "fd"
+brew "gh"
+brew "gnupg"
+brew "helix"
+brew "mcfly"
+brew "mdbook"
+brew "minikube"
+brew "nmap"
+brew "pinentry-mac"
+brew "pipx"
+brew "podman"
+brew "podman-compose"
+brew "ripgrep"
+brew "sccache"
+brew "starship"
+brew "tealdeer"
+brew "tectonic"
+brew "zoxide"
+
+# set arguments for all 'brew install --cask' commands
+cask_args appdir: "/Applications", require_sha: true
+
+cask "alt-tab"
+cask "bettertouchtool"
+cask "bitwarden"
+cask "firefox"
+cask "julia"
+cask "keepassxc"
+# cask "mactex" - install annual multi-GB updates manually (update with TeXLive in the meantime)
+cask "mambaforge"
+cask "podman-desktop"
+cask "rectangle"
+cask "sublime-text"
+cask "veracrypt"
+cask "visual-studio-code"
