@@ -21,3 +21,6 @@ fi
 if $(command -v zoxide > /dev/null 2>&1); then
     eval "$(zoxide init zsh)"
 fi
+
+alias kubectl="minikube kubectl --"
+alias podman-init="podman machine init --cpus 2 --memory 4096"

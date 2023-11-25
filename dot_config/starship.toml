@@ -1,4 +1,9 @@
+# Get editor completions based on the config schema
+"$schema" = 'https://starship.rs/config-schema.json'
+
+# https://starship.rs/config/
 add_newline = false
+command_timeout = 1500
 
 [conda]
 ignore_base = true
