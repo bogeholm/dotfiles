@@ -30,6 +30,7 @@ cask "alt-tab"
 cask "bettertouchtool"
 cask "bitwarden"
 cask "firefox"
+cask "insomnia"
 cask "julia"
 cask "keepassxc"
 # cask "mactex" - install annual multi-GB updates manually (update with TeXLive in the meantime)
