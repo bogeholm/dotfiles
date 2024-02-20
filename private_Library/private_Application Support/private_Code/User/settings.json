@@ -6,5 +6,6 @@
     "github.copilot.enable": {
         "markdown": "true"
     },
-    "github.copilot.advanced": {}
+    "github.copilot.advanced": {},
+    "files.trimTrailingWhitespace": true
 }
