@@ -1,8 +1,10 @@
- # https://github.com/Homebrew/homebrew-bundle
+# https://github.com/Homebrew/homebrew-bundle
+tap "fluxcd/tap"
 
 brew "argocd"
 brew "chezmoi"
 brew "fd"
+brew "fluxcd/tap/flux"
 brew "gh"
 brew "gnupg"
 brew "helix"
