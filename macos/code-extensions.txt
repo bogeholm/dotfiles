@@ -1,0 +1,13 @@
+charliermarsh.ruff
+davidanson.vscode-markdownlint
+github.copilot
+github.copilot-chat
+github.vscode-github-actions
+mathematic.vscode-latex
+mechatroner.rainbow-csv
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+redhat.vscode-yaml
+rust-lang.rust-analyzer
+tamasfe.even-better-toml

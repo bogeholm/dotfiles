@@ -1,0 +1,7 @@
+black 24.2.0
+hatch 1.9.3
+pip-tools 7.4.0
+poetry 1.7.1
+ruff 0.2.2
+safety 3.0.1
+uv 0.1.8
