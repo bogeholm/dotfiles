@@ -23,7 +23,7 @@ fi
 tldr --update
 
 code --list-extensions > ~/macos/code-extensions.txt
-pipx list --short > ~/macos/pipx-packages.txt
+pipx list --short | cut -d ' ' -f 1 > ~/macos/pipx-packages.txt
 
 softwareupdate --list
 
