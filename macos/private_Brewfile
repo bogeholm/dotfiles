@@ -35,6 +35,7 @@ cask "bitwarden"
 cask "firefox"
 cask "insomnia"
 cask "julia"
+cask "jupyter-notebook-viewer"
 cask "keepassxc"
 # cask "mactex" - install annual multi-GB updates manually (update with TeXLive in the meantime)
 cask "mambaforge"
