@@ -1,5 +1,6 @@
 black
 hatch
+mypy
 pip-tools
 poetry
 ruff
