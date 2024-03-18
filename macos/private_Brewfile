@@ -24,6 +24,7 @@ brew "starship"
 brew "tealdeer"
 brew "tectonic"
 brew "typst"
+brew "verapdf"
 brew "zoxide"
 
 # set arguments for all 'brew install --cask' commands
