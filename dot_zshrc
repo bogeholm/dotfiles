@@ -24,6 +24,9 @@ fi
 
 alias kubectl="minikube kubectl --"
 alias podman-init="podman machine init --cpus 2 --memory 4096"
+icloud() {
+    cd "$HOME/Library/Mobile Documents/com~apple~CloudDocs"
+}
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
