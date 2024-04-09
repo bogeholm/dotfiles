@@ -7,5 +7,6 @@
         "markdown": "true"
     },
     "github.copilot.advanced": {},
-    "files.trimTrailingWhitespace": true
+    "files.trimTrailingWhitespace": true,
+    "editor.accessibilitySupport": "off"
 }
