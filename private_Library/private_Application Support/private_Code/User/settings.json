@@ -8,5 +8,6 @@
     },
     "github.copilot.advanced": {},
     "files.trimTrailingWhitespace": true,
-    "editor.accessibilitySupport": "off"
+    "editor.accessibilitySupport": "off",
+    "terminal.integrated.inheritEnv": false
 }
