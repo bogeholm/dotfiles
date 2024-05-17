@@ -25,6 +25,9 @@ tldr --update
 code --list-extensions > ~/macos/code-extensions.txt
 pipx list --short | cut -d ' ' -f 1 > ~/macos/pipx-packages.txt
 
+# Update App Store apps
+mas upgrade
+# List OS upgrades to install manually
 softwareupdate --list
 
 chezmoi diff
