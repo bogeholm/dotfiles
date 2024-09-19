@@ -43,6 +43,6 @@ cask "keepassxc"
 # cask "mactex" - install annual multi-GB updates manually (update with TeXLive in the meantime)
 cask "mambaforge"
 cask "podman-desktop"
-cask "rectangle"
+cask "rectangle-pro"
 cask "sublime-text"
 cask "visual-studio-code"
