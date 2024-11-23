@@ -9,8 +9,6 @@ brew cleanup
 # brew upgrade --cask --greedy mambaforge
 conda update -n base -c conda-forge conda mamba --yes
 
-npm update -g
-
 pipx upgrade-all
 
 rustup self update
