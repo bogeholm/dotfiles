@@ -1,10 +1,6 @@
 # https://github.com/Homebrew/homebrew-bundle
-tap "fluxcd/tap"
-
-brew "argocd"
 brew "chezmoi"
 brew "fd"
-brew "fluxcd/tap/flux"
 brew "gh"
 brew "gnupg"
 brew "helix"
@@ -35,7 +31,7 @@ cask "bettertouchtool"
 cask "bitwarden"
 cask "firefox"
 cask "insomnia"
-cask "julia"
+cask "julia-app"
 cask "jupyter-notebook-viewer"
 cask "keepassxc"
 # cask "mactex" - install annual multi-GB updates manually (update with TeXLive in the meantime)

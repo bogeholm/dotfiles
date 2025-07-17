@@ -1,6 +1,7 @@
 charliermarsh.ruff
 ckolkman.vscode-postgres
 davidanson.vscode-markdownlint
+docker.docker
 github.copilot
 github.copilot-chat
 github.vscode-github-actions
@@ -13,3 +14,4 @@ ms-python.vscode-pylance
 redhat.vscode-yaml
 rust-lang.rust-analyzer
 tamasfe.even-better-toml
+yzane.markdown-pdf
