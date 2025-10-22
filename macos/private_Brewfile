@@ -35,7 +35,7 @@ cask "julia-app"
 cask "jupyter-notebook-viewer"
 cask "keepassxc"
 # cask "mactex" - install annual multi-GB updates manually (update with TeXLive in the meantime)
-cask "mambaforge"
+cask "miniforge"
 cask "podman-desktop"
 cask "rectangle-pro"
 cask "sublime-text"

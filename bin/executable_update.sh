@@ -6,8 +6,7 @@ brew bundle install --file ~/macos/Brewfile
 brew upgrade
 brew cleanup
 
-# brew upgrade --cask --greedy mambaforge
-conda update -n base -c conda-forge conda mamba --yes
+conda update -n base -c conda-forge conda --yes
 
 pipx upgrade-all
 
