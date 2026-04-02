@@ -1,9 +1,0 @@
-black
-hatch
-kaggle
-mypy
-pip-tools
-poetry
-ruff
-safety
-uv
